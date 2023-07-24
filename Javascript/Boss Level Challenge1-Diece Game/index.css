@@ -1,0 +1,22 @@
+img{
+    height: 200px;
+    margin-top: 50px;
+    margin-right: 20px;
+    font-weight: bold;
+    
+}
+h1{
+    margin-top: 50px;
+    font-family: 'Lugrasimo', cursive;
+}
+.icon{
+    height: 10px;
+    margin-bottom: 45px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+    
+.footer{
+    font-family: 'Lugrasimo', cursive;
+    font-size: 10px;
+}
